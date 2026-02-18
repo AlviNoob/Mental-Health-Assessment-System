@@ -44,7 +44,7 @@ The **Mental Health Assessment System** provides:
 
 ### 📌 ER / EER Diagram
 
-![ER Diagram](images\er_diagram.png)
+![ER Diagram](images/er_diagram.png)
 
 
 The ER diagram defines: - Entities (Patient, Doctor, Treatment,
@@ -55,7 +55,7 @@ structure
 
 ### 📌 Schema Diagram
 
-![Schema Diagram](images\schema_diagram.png)
+![Schema Diagram](images/schema_diagram.png)
 
 The schema diagram represents: - Table structures - Data types - Keys
 and constraints - Relationship mappings
